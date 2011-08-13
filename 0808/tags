@@ -1,0 +1,2 @@
+Mmain	main.c	/^int main(int argc, char* argv[])$/
+myprint	myprint.c	/^void myprint(void){$/

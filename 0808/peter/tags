@@ -1,0 +1,2 @@
+Mmain	main.c	/^int main()$/
+say_hello	say_hello.c	/^void say_hello()$/

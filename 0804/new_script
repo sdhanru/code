@@ -1,0 +1,4 @@
+echo Your files are
+ls
+echo Today is
+date
